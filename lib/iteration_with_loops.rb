@@ -1,5 +1,12 @@
  def find_min_in_nested_arrays(src)
-min_temperatures = []
+   array=[]
+  counter = 0
+  while counter < src.length
+    array.push(src[counter].max)
+    counter +=1
+  end
+  array
+end
 
 
   
