@@ -1,5 +1,5 @@
  def find_min_in_nested_arrays(src)
-find_min_in_nested_arrays = []
+min_temperatures = []
 
 
   
