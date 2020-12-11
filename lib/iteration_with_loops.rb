@@ -1,6 +1,6 @@
  def find_min_in_nested_arrays(src)
 find_min_in_nested_arrays = []
-{src.min} << find_min_in_nested_arrays
+src.min << find_min_in_nested_arrays
 return find_min_in_nested_arrays
 
   
