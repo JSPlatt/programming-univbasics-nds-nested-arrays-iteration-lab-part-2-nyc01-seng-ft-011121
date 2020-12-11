@@ -2,7 +2,7 @@
    array=[]
   counter = 0
   while counter < src.length
-    array.push(src[counter].max)
+    array.push(src[counter].min)
     counter +=1
   end
   array
